@@ -23,3 +23,11 @@ Hello 👋,
 | Crop | Flutter | https://github.com/xclud/flutter_crop |
 | Wallet | Dart | https://github.com/xclud/dart_wallet |
 | Bidi | Dart | https://github.com/xclud/dart_bidi |
+
+#### Skills
+
+![](https://skillicons.dev/icons?i=dotnet,rust,kubernetes,flutter)
+
+#### Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xclud&theme=dark&show_icons=true)
