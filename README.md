@@ -9,7 +9,7 @@ Hello 👋,
 - 👯 I’m looking to collaborate on [.NET](https://github.com/dotnet/runtime) and [Flutter](https://github.com/flutter/flutter).
 - 🤔 I build on .NET, gRPC, Flutter, MongoDb/SurrealDb, Ubuntu, GitHub Actions and Azure stack.
 - 💬 Ask me about anything you think i can help you with.
-- 📫 How to reach me: [@mahkfard](https://t.me/mahkfard).
+- 📫 How to reach me: [@mahkfard](https://t.me/mkfard).
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
